@@ -1,0 +1,33 @@
+body{
+    color: #FFFF00;
+    
+    
+    background: url(https://st2.depositphotos.com/4107269/8062/i/450/depositphotos_80625388-stock-photo-night-mountain-landscape-with-illuminated.jpg); width:1000% ;
+
+}
+h1{
+    color:coral
+}
+h2{
+    color:#FFFF00
+}
+.rightt{
+position:relative;
+color:#FF0000;
+
+
+}
+.music{
+    position: absolute; top:0px;left:0px;
+}
+.hrf{
+    position:fixed;
+    top:0;
+    background-color:bisque;
+}
+
+
+.classcart:hover{
+    height: 135px;
+    width: 245px;
+}

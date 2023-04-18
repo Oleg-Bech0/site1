@@ -1,0 +1,11 @@
+body{
+    background-color:green;
+}
+.hrf{
+    background-color:bisque;
+    position: fixed;
+    top: 0;
+}
+h2{
+    color: yellow;
+}
